@@ -5,7 +5,7 @@ Git has a mutable index called stage.
 Creating a new branch is quick.:wq
 Creating a master.
 <<<<<<< HEAD
-
+111
 wo zai xia yi hang
 =======
 creat
